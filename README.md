@@ -12,7 +12,7 @@
 This bash script helps you to install `Adobe Illustrator CC` on your Linux distro easily. It will download a free version of Illustrator and tries to run it using `wine` installed on your system.
 
 
-** I have modified the download link to use this one:  https://downloads.runebase.io/illustratorCC17.tgz. Since the original developer of these scripts has commited anything in 2 years, I have forked it. Please open an issue if the download link doesn't work**
+**I have modified the download link to use this one:  https://downloads.runebase.io/illustratorCC17.tgz. Since the original developer of these scripts hasn't commited anything in 2 years, I have forked it. Please open an issue if the download link doesn't work**
 
 ## :rocket: Features
 * illustrator command
